@@ -22,3 +22,8 @@ lib/datasets/data/*
 
 # Generated C files
 lib/utils/cython_*.c
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/facebookdetection.iml
